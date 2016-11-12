@@ -1,8 +1,10 @@
+package ui;
+import algorithms.attacks.factoring.FermatFactoring;
 
 public class Main {
 		public static void main (String[] args){
 			
-			FermatFactoring ff = new FermatFactoring(5317);
+			FermatFactoring ff = new FermatFactoring(364807);
 			ff.factoring();
 			int[] messageArray = {688,232,687,966,668,3};
 			//int[] messageArray = {33};
