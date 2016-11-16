@@ -370,18 +370,96 @@ ryptography is about constructing and analyzing protocols that prevent third
 \end_layout
 
 \begin_layout Section
-What is a Cyber-Attack
+What is a Cyber-Attack?
 \end_layout
 
 \begin_layout Standard
 Is any type of offensive maneuver employed by individuals or whole organizations
  that targets computer information systems, infrastructures, computer networks,
  and/or personal computer devices by various means of malicious acts usually
- originating from an anonymous source that either steals, alters, or destroys
+ originating from an anonymous source that either steals, alters or destroys
+ information.
+ Cyber-attacks can range from installing spyware on a system to DDoS that
+ can bring down entire servers.
+ Now, not all of them are considered to be 
+\begin_inset Quotes eld
+\end_inset
+
+bad
+\begin_inset Quotes erd
+\end_inset
+
+ some are designed to test the security of an organization and others are
+ made to identify back-doors in a system.
 \end_layout
 
 \begin_layout Section
-Types of Cyber-Attacks
+Types of Cyber-Attacks.
+\end_layout
+
+\begin_layout Subsection
+Malware
+\end_layout
+
+\begin_layout Standard
+Is an all-encompassing term for a variety of cyber threats including Trojans,
+ viruses and worms.
+ Malware is simply defined as code with malicious intent that typically
+ steals data or destroys something on the computer.
+ Malware is most often introduced to a system through email attachments,
+ software downloads or operating system vulnerabilities.
+\end_layout
+
+\begin_layout Subsection
+Spear Phishing
+\end_layout
+
+\begin_layout Standard
+Often posing as a request for data from a trusted third party, phishing
+ attacks are sent via email and ask users to click on a link and enter their
+ personal data.
+ The success of a spear phishing attack is dependent on an end user clicking
+ on a link embedded in a crafty email.
+ Unfortunately, the unlimited nature of human creativity together with Social
+ Engineering have strengthened the odds that at least one target in a phishing
+ attack will click on that security compromising link.
+\end_layout
+
+\begin_layout Subsection
+DDoS Atacks
+\end_layout
+
+\begin_layout Standard
+DoDoS attacks are performed by botnets, which infiltrate systems around
+ the world.
+ A botnet of a few hosts is relatively harmless, but a botnet comprised
+ of thousands of machines represents a very powerful force capable of bringing
+ down targeted organizations.
+ They do this by overwhelming legitimate online services to the extent that
+ the online service can't handle the volume of activity and is essentially
+ offline for the duration of the attack.
+ The botnet zombie army will lie dormant until it receives instructions
+ from the command control servers.
+\end_layout
+
+\begin_layout Subsection
+MITM (Man in the Middle)
+\end_layout
+
+\begin_layout Standard
+By impersonating the endpoints in an online information exchange (i.e.
+ the connection from your smartphone to a website), the MITM can obtain
+ information from the end user and the entity he or she is communicating
+ with, normally, a MITM gains access through a non-encrypted wireless access
+ point (i.e.
+ one that doesn't use WAP, WPA, WPA2 or other security measures).
+ They would then have access to all of the information being transferred
+ between both parties, by trying to act as a fake node or communication
+ end and then stealing information that is send.
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Section
