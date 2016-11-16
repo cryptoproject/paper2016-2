@@ -370,18 +370,22 @@ ryptography is about constructing and analyzing protocols that prevent third
 \end_layout
 
 \begin_layout Section
-What is a Cyber-Attack
+What is a Cyber-Attack?
 \end_layout
 
 \begin_layout Standard
 Is any type of offensive maneuver employed by individuals or whole organizations
  that targets computer information systems, infrastructures, computer networks,
  and/or personal computer devices by various means of malicious acts usually
- originating from an anonymous source that either steals, alters, or destroys
+ originating from an anonymous source that either steals, alters or destroys
+ information.
+ Cyber-attacks can range from installing spyware on a system to DDoS that
+ can bring down entire servers.
 \end_layout
 
 \begin_layout Section
-Types of Cyber-Attacks
+Types of Cyber-Attacks.
+ 
 \end_layout
 
 \begin_layout Section
